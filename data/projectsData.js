@@ -1,9 +1,8 @@
 const projectsData = [
   {
     title: 'Magnesia Healthtech',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    description: `Magnesia is a company established under Mexican law that is 
+    focused in building the next generation of at-home health services`,
     imgSrc: '/static/images/img-magnesi.png',
     href: '/blog/magnesia-healthtech',
   },

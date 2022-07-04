@@ -23,6 +23,3 @@ Exact definitions fall short to all that one is, that is why I prefer to be iden
 I have dedicated myself to building tech products and consumer goods since 2014; the products I have built have been used by 1000s of users across different sectors, including industrial (mining and electronics), retail, and health. I have a particular bias toward working on data-intensive projects.
 
 Got an exciting idea? You can contact me directly at everhard@cenort.com.
-
-
-

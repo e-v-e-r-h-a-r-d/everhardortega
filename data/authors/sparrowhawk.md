@@ -1,5 +1,5 @@
 ---
-name: Sparrow Hawk
+name: Sparrow Hawk2
 avatar: /static/images/sparrowhawk-avatar.jpg
 occupation: Wizard of Earthsea
 company: Earthsea

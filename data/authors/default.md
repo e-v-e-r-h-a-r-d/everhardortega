@@ -1,8 +1,8 @@
 ---
 name: Everhard Ortega
 avatar: /static/images/avatar.png
-occupation: 
-company: 
+occupation:
+company:
 email: everhard@cenort.com
 twitter: https://twitter.com/everhard___
 linkedin: https://www.linkedin.com/in/everhardortega/

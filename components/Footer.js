@@ -30,4 +30,3 @@ export default function Footer() {
         </div>
     <div>{siteMetadata.author}</div>
 */
-        

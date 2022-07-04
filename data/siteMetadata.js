@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
+  email: 'everhard@cenort.com',
+  github: 'https://github.com/e-v-e-r-h-a-r-d',
+  twitter: 'https://twitter.com/everhard___',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/everhardortega/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

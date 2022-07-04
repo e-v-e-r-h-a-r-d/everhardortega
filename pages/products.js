@@ -3,6 +3,8 @@ import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
+export const POSTS_PER_PAGE = 5
+
 export default function Projects() {
   return (
     <>

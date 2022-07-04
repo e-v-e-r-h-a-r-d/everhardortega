@@ -15,7 +15,7 @@ export default function AuthorLayout({ children, frontMatter }) {
           </h1>
         </div>
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
-          <div className="sticky lg:relative top-0 flex flex-col items-center pt-8">
+          <div className="static lg: sticky flex flex-col items-center pt-8">
             <Image
               src={avatar}
               alt="avatar"

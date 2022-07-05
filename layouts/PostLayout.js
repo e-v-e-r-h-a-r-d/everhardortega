@@ -22,7 +22,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
   return (
     <SectionContainer>
       <BlogSEO
-        url={`${siteMetadata.siteUrl}/blog/${slug}`}
+        url={`${siteMetadata.siteUrl}/ideas/${slug}`}
         authorDetails={authorDetails}
         {...frontMatter}
       />

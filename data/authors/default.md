@@ -1,6 +1,6 @@
 ---
 name: Everhard Ortega
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpeg
 occupation: Engineer, janitor & fruit expert.
 company: Magnesia Healthech + more
 email: everhard@cenort.com

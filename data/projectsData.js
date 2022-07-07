@@ -34,27 +34,33 @@ const projectsData = [
     description: `Vincom analytics was a platform that helped companies access key
     business insights and share them between teams.`,
     imgSrc: '/static/images/vincom.png',
-    href: '/blog/chequeo',
+    href: '/blog/vincom-analytics',
   },
   {
     title: 'Heartbest Foods',
     description: `Heartbest is the leading plant-based food brand in Mexico, with
     presence in more than 500 POS`,
     imgSrc: '/static/images/Heartbest.png',
-    href: '/blog/chequeo',
+    href: '/blog/heartbest',
+  },
+  {
+    title: 'ContiPlus',
+    description: `Smartest way to monitor your conveyors. For all your mining and industry applications`,
+    imgSrc: '/static/images/contiplus.png',
+    href: '/blog/contiplus',
   },
   {
     title: 'One Young World Summit',
-    description: `Tu ONE summit is like the olympics for nerds, while I was still 
+    description: `The ONE summit is like the olympics for nerds, while I was still 
     a student at Tec, I won an excellence scholarship to attend and represent Mexico.`,
     imgSrc: '/static/images/oyw.png',
-    href: '/blog/chequeo',
+    href: '/blog/one-summit',
   },
   {
     title: 'Bonus: One Way Ticket',
     description: `One Way Ticket is a book and philosophy community by Aniceto 
     González to whom I helped to publish and distribute on Kindle and Audible. 
-    It has been advertised by Audible as a top pick with other fanous authors.`,
+    It has been advertised by Audible as a top pick with other recognized authors.`,
     imgSrc: '/static/images/owt.png',
     href: '/blog/one-way-ticket',
   },

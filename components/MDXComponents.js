@@ -1,7 +1,7 @@
 /* eslint-disable react/display-name */
 import { useMemo } from 'react'
 import { MDXEmbedProvider } from 'mdx-embed'
-import React from 'react';
+import React from 'react'
 import { getMDXComponent } from 'mdx-bundler/client'
 import Image from './Image'
 import CustomLink from './Link'
@@ -27,4 +27,4 @@ export const MDXLayoutRenderer = ({ layout, mdxSource, ...rest }) => {
   return <MDXLayout layout={layout} components={MDXComponents} {...rest} />
 }
 
-export default (props) => <MDXEmbedProvider>{props.children}</MDXEmbedProvider>;
+export default (props) => <MDXEmbedProvider>{props.children}</MDXEmbedProvider>

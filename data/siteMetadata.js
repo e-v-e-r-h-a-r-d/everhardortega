@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/e-v-e-r-h-a-r-d/everhardortega',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/stack.png',
   email: 'everhard@cenort.com',
   github: 'https://github.com/e-v-e-r-h-a-r-d',
   twitter: 'https://twitter.com/everhard___',

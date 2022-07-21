@@ -8,7 +8,7 @@ const projectsData = [
   },
   {
     title: 'Cenort',
-    description: `Cenort is the company though which I offer tech related consulting
+    description: `Cenort is the company through which I offer tech related consulting
     and advicing services to companies with the objective of making good decisions for 
     the future  of their business.`,
     imgSrc: '/static/images/stack.png',

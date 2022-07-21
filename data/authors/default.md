@@ -11,7 +11,7 @@ github: https://github.com/e-v-e-r-h-a-r-d
 
 #### Welcome to my personal website. I am Everhard Ortega, an engineer and technologist from Mexico with the conviction of building the best future possible. 
 
-For the last years, I have dedicated myself to solving interesting real-life problems with technology across different sectors. As a result, thousands of users have used the products and solutions that I have built.  
+For the last years, I have dedicated myself to solving interesting real-life problems with technology across different sectors: Mining, Foodtech, Retail, and Health. As a result, thousands of users have used the products and solutions that I have built.  
 
 * In 2022, I launched my most recent venture, [Magnesia](https://magnesia.mx), which is a platform that allows patients to order at-home laboratory tests in less than 5 minutes. Since the Covid-19 pandemic, the demand for at-home health services has exploded in Mexico, so Magnesia's mission is to fill this space by making the access to health services as simple as a couple of clicks. [Learn more](/blog/magnesia-healthtech)
 * In 2020, I launched [Chequeo](https://chequeo.mx), a product that helps companies understand the health state of their workforce while complying simultaneously with the nom-035 regulations of the Mexican work law. [Learn more](/blog/chequeo)
